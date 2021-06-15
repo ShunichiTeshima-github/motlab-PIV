@@ -1,0 +1,7 @@
+img_directory ./img/ None None
+file_name img%04d.bmp 0 50
+xgrid_array 30 990 16
+ygrid_array 420 660 16
+interrogation_windpw 32 32
+search_area_x -2 14
+search_area_y -2 2
